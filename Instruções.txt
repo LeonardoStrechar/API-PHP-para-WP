@@ -1,0 +1,12 @@
+Para utilizar essa API, deverá criar um arquivo HTML que contenha um formulario
+e neste os inputs nescesarios, dentro do formulario coloque um botão de submit nomeado
+corretamente seguindo o código da API.
+
+Exemplo:
+
+<form>
+	<input name="o_nome_devera_ser_igual_do_codigo_da_api" type="text">
+	<input name="o_nome_devera_ser_igual_do_codigo_da_api" type="text">
+
+	<input type="submit" name=""Button_submit_1>
+</form>
